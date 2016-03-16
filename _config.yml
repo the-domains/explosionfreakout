@@ -1,0 +1,28 @@
+name: explosionfreakout
+favicon: null
+layout_spectrum: 0.9335778409149498
+typography_spectrum: 0.21969379484653473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10141077660955489
+  lightness: 0.48117053671739995
+  saturation: 0.25967651908285916
+  rhythmicContrast: 0.055903770262375474
+purpose: []

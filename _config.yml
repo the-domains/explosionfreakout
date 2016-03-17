@@ -1,6 +1,6 @@
 name: photography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.2389
 title: by Christian Lockerman
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.8125
   saturation: 0.875
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []

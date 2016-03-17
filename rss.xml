@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[explosionfreakout]]></title>
-        <description><![CDATA[explosionfreakout]]></description>
+        <title><![CDATA[by Christian Lockerman]]></title>
+        <description><![CDATA[by Christian Lockerman]]></description>
         <link>http://explosionfreakout.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 16:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 16:58:40 GMT</lastBuildDate>
         <atom:link href="http://explosionfreakout.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://explosionfreakout.com/51f1ecc9-e270-4a1f-bb9f-e5ebdbc75043/index.html</link>
             <guid isPermaLink="false">51f1ecc9-e270-4a1f-bb9f-e5ebdbc75043</guid>
             <pubDate>Thu, 17 Mar 2016 16:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a49b04-996d-4c3a-9627-321ebea2f430.jpg">]]></description>
-            <link>http://explosionfreakout.com/5243b268-ebc1-4877-a834-6ce5d6ccc7ec/index.html</link>
-            <guid isPermaLink="false">5243b268-ebc1-4877-a834-6ce5d6ccc7ec</guid>
-            <pubDate>Thu, 17 Mar 2016 16:02:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

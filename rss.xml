@@ -4,14 +4,21 @@
         <description><![CDATA[by Christian Lockerman]]></description>
         <link>http://explosionfreakout.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 18:58:19 GMT</lastBuildDate>
         <atom:link href="http://explosionfreakout.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1589129-566b-488d-8629-f08e2b5fb5e5.jpg" alt="" title="" />]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1589129-566b-488d-8629-f08e2b5fb5e5.jpg" alt="" title="">]]></description>
             <link>http://explosionfreakout.com/4fd76d62-af55-4f78-8f17-73d14a666ed6/index.html</link>
             <guid isPermaLink="false">4fd76d62-af55-4f78-8f17-73d14a666ed6</guid>
-            <pubDate>Thu, 17 Mar 2016 18:25:21 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 18:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/193093f4-a5e2-471e-ad17-b73c56aecbba.jpg">]]></description>
+            <link>http://explosionfreakout.com/summer/index.html</link>
+            <guid isPermaLink="false">76d40659-2705-4bb7-86a1-ba8c0a37291e</guid>
+            <pubDate>Thu, 17 Mar 2016 18:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

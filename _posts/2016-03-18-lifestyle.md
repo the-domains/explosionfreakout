@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Lifestyle
-datePublished: '2016-03-18T17:14:15.179Z'
-dateModified: '2016-03-18T16:02:51.074Z'
+datePublished: '2016-03-18T17:34:37.908Z'
+dateModified: '2016-03-18T17:34:26.748Z'
 title: LIFESTYLE
 author: []
+sourcePath: _posts/2016-03-18-lifestyle.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-lifestyle.md
-published: true
 url: lifestyle/index.html
 _type: WebPage
 

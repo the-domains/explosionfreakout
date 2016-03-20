@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Lifestyle
-datePublished: '2016-03-20T14:13:56.246Z'
-dateModified: '2016-03-20T14:07:59.263Z'
+datePublished: '2016-03-20T14:30:49.541Z'
+dateModified: '2016-03-20T14:14:05.217Z'
 title: LIFESTYLE
 author: []
 sourcePath: _posts/2016-03-18-lifestyle.md

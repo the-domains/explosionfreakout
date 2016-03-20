@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Lifestyle
-datePublished: '2016-03-20T13:50:23.218Z'
-dateModified: '2016-03-20T13:50:20.397Z'
+datePublished: '2016-03-20T14:07:49.740Z'
+dateModified: '2016-03-20T13:52:25.242Z'
 title: LIFESTYLE
 author: []
 sourcePath: _posts/2016-03-18-lifestyle.md
@@ -34,4 +34,3 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ac9fa01-7df1-4a66-85c8-161490031bc9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07635971-15c5-4452-aeea-23133e7a6bd6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/165108ba-4a36-4b37-af00-672e314c3966.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbaad43a-7ec8-4708-b427-86d6da4d4ff2.jpg)

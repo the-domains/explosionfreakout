@@ -1,6 +1,6 @@
 name: EXPLOSION FREAKOUT (or what my daughter does once an hour)
 favicon: null
-layout_spectrum: 0.26161
+layout_spectrum: 0.41518
 typography_spectrum: 0.49783
 title: Photography by Christian Lockerman
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.6875
   saturation: 0.8125
   rhythmicContrast: 1
